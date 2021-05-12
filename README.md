@@ -1,9 +1,3 @@
-# Fabric Example Mod
+# Valtiel's Girl Armor Mod Fabric port + Extras
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## Still structured like the default Fabric mod, wait until more work is done.
