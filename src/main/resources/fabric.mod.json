@@ -1,29 +1,29 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "girlmod_and_extras",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "V-Girl Armor Mod Fabric Port + Extras!",
+  "description": "This is a Fabric port of the Girl Armor mod by valtiel_. As a bonus, the mod also includes extras such as tails.",
   "authors": [
-    "Me!"
+    "valtiel_",
+    "Banjoei"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "discord": "Banjoei#4807",
+    "sources": "https://github.com/Banjoei/Girl-Armor-and-Extras"
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/girlmod_and_extras/icon.png",
 
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.example.ExampleMod"
+      "com.banjoei.girlmod.GirlMod"
     ]
   },
   "mixins": [
-    "modid.mixins.json"
   ],
 
   "depends": {
