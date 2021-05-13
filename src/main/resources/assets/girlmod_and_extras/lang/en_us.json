@@ -1,3 +1,345 @@
 {
-  "item.girlmod_and_extras.diamond_shoes": "Diamond Shoes"
+
+  "itemGroup.hats": "Girl Hats",
+  "itemGroup.tops": "Girl T-Shirts",
+  "itemGroup.skirts": "Girl Skirts",
+  "itemGroup.shoes": "Girl Shoes",
+
+  "item.girlmod_and_extras.diamond_hat": "Diamond Hat",
+  "item.girlmod_and_extras.diamond_top": "Diamond T-shirt",
+  "item.girlmod_and_extras.diamond_skirt":"Diamond Skirt",
+  "item.girlmod_and_extras.diamond_shoes":"Diamond Shoes",
+
+  "item.girlmod_and_extras.gold_hat": "Gold Hat",
+  "item.girlmod_and_extras.gold_top": "Gold T-shirt",
+  "item.girlmod_and_extras.gold_skirt":"Gold Skirt",
+  "item.girlmod_and_extras.gold_shoes":"Gold Shoes",
+
+  "item.girlmod_and_extras.iron_hat": "Iron Hat",
+  "item.girlmod_and_extras.iron_top": "Iron T-shirt",
+  "item.girlmod_and_extras.iron_skirt":"Iron Skirt",
+  "item.girlmod_and_extras.iron_shoes":"Iron Shoes",
+
+  "item.girlmod_and_extras.wool_colored_black_hat": "Wool Colored Black Hat",
+  "item.girlmod_and_extras.wool_colored_black_top": "Wool Colored Black T-shirt",
+  "item.girlmod_and_extras.wool_colored_black_skirt":"Wool Colored Black Skirt",
+  "item.girlmod_and_extras.wool_colored_black_shoes":"Wool Colored Black Shoes",
+
+  "item.girlmod_and_extras.wool_colored_blue_hat": "Wool Colored Blue Hat",
+  "item.girlmod_and_extras.wool_colored_blue_top": "Wool Colored Blue T-shirt",
+  "item.girlmod_and_extras.wool_colored_blue_skirt":"Wool Colored Blue Skirt",
+  "item.girlmod_and_extras.wool_colored_blue_shoes":"Wool Colored Blue Shoes",
+
+  "item.girlmod_and_extras.wool_colored_brown_hat": "Wool Colored Brown Hat",
+  "item.girlmod_and_extras.wool_colored_brown_top": "Wool Colored Brown T-shirt",
+  "item.girlmod_and_extras.wool_colored_brown_skirt":"Wool Colored Brown Skirt",
+  "item.girlmod_and_extras.wool_colored_brown_shoes":"Wool Colored Brown Shoes",
+
+  "item.girlmod_and_extras.wool_colored_cyan_hat": "Wool Colored Cyan Hat",
+  "item.girlmod_and_extras.wool_colored_cyan_top": "Wool Colored Cyan T-shirt",
+  "item.girlmod_and_extras.wool_colored_cyan_skirt":"Wool Colored Cyan Skirt",
+  "item.girlmod_and_extras.wool_colored_cyan_shoes":"Wool Colored Cyan Shoes",
+
+  "item.girlmod_and_extras.wool_colored_green_hat": "Wool Colored Green Hat",
+  "item.girlmod_and_extras.wool_colored_green_top": "Wool Colored Green T-shirt",
+  "item.girlmod_and_extras.wool_colored_green_skirt": "Wool Colored Green Skirt",
+  "item.girlmod_and_extras.wool_colored_green_shoes": "Wool Colored Green Shoes",
+
+  "item.girlmod_and_extras.wool_colored_gray_hat": "Wool Colored Gray Hat",
+  "item.girlmod_and_extras.wool_colored_gray_top": "Wool Colored Gray T-shirt",
+  "item.girlmod_and_extras.wool_colored_gray_skirt": "Wool Colored Gray Skirt",
+  "item.girlmod_and_extras.wool_colored_gray_shoes": "Wool Colored Gray Shoes",
+
+  "item.girlmod_and_extras.wool_colored_light_blue_hat": "Wool Colored Light Blue Hat",
+  "item.girlmod_and_extras.wool_colored_light_blue_top": "Wool Colored Light Blue T-shirt",
+  "item.girlmod_and_extras.wool_colored_light_blue_skirt": "Wool Colored Light Blue Skirt",
+  "item.girlmod_and_extras.wool_colored_light_blue_shoes": "Wool Colored Light Blue Shoes",
+
+  "item.girlmod_and_extras.wool_colored_lime_hat": "Wool Colored Lime Hat",
+  "item.girlmod_and_extras.wool_colored_lime_top": "Wool Colored Lime T-shirt",
+  "item.girlmod_and_extras.wool_colored_lime_skirt": "Wool Colored Lime Skirt",
+  "item.girlmod_and_extras.wool_colored_lime_shoes": "Wool Colored Lime Shoes",
+
+  "item.girlmod_and_extras.wool_colored_magenta_hat": "Wool Colored Magenta Hat",
+  "item.girlmod_and_extras.wool_colored_magenta_top": "Wool Colored Magenta T-shirt",
+  "item.girlmod_and_extras.wool_colored_magenta_skirt": "Wool Colored Magenta Skirt",
+  "item.girlmod_and_extras.wool_colored_magenta_shoes": "Wool Colored Magenta Shoes",
+
+  "item.girlmod_and_extras.wool_colored_orange_hat": "Wool Colored Orange Hat",
+  "item.girlmod_and_extras.wool_colored_orange_top": "Wool Colored Orange T-shirt",
+  "item.girlmod_and_extras.wool_colored_orange_skirt": "Wool Colored Orange Skirt",
+  "item.girlmod_and_extras.wool_colored_orange_shoes": "Wool Colored Orange Shoes",
+
+  "item.girlmod_and_extras.wool_colored_pink_hat": "Wool Colored Pink Hat",
+  "item.girlmod_and_extras.wool_colored_pink_top": "Wool Colored Pink T-shirt",
+  "item.girlmod_and_extras.wool_colored_pink_skirt": "Wool Colored Pink Skirt",
+  "item.girlmod_and_extras.wool_colored_pink_shoes": "Wool Colored Pink Shoes",
+
+  "item.girlmod_and_extras.wool_colored_purple_hat": "Wool Colored Purple Hat",
+  "item.girlmod_and_extras.wool_colored_purple_top": "Wool Colored Purple T-shirt",
+  "item.girlmod_and_extras.wool_colored_purple_skirt": "Wool Colored Purple Skirt",
+  "item.girlmod_and_extras.wool_colored_purple_shoes": "Wool Colored Purple Shoes",
+
+  "item.girlmod_and_extras.wool_colored_red_hat": "Wool Colored Red Hat",
+  "item.girlmod_and_extras.wool_colored_red_top": "Wool Colored Red T-shirt",
+  "item.girlmod_and_extras.wool_colored_red_skirt": "Wool Colored Red Skirt",
+  "item.girlmod_and_extras.wool_colored_red_shoes": "Wool Colored Red Shoes",
+
+  "item.girlmod_and_extras.wool_colored_silver_hat": "Wool Colored Light Gray Hat",
+  "item.girlmod_and_extras.wool_colored_silver_top": "Wool Colored Light Gray T-shirt",
+  "item.girlmod_and_extras.wool_colored_silver_skirt": "Wool Colored Light Gray Skirt",
+  "item.girlmod_and_extras.wool_colored_silver_shoes": "Wool Colored Light Gray Shoes",
+
+  "item.girlmod_and_extras.wool_colored_white_hat": "Wool Colored White Hat",
+  "item.girlmod_and_extras.wool_colored_white_top": "Wool Colored White T-shirt",
+  "item.girlmod_and_extras.wool_colored_white_skirt": "Wool Colored White Skirt",
+  "item.girlmod_and_extras.wool_colored_white_shoes": "Wool Colored White Shoes",
+
+  "item.girlmod_and_extras.wool_colored_yellow_hat": "Wool Colored Yellow Hat",
+  "item.girlmod_and_extras.wool_colored_yellow_top": "Wool Colored Yellow T-shirt",
+  "item.girlmod_and_extras.wool_colored_yellow_skirt": "Wool Colored Yellow Skirt",
+  "item.girlmod_and_extras.wool_colored_yellow_shoes": "Wool Colored Yellow Shoes",
+
+
+  "item.girlmod_and_extras.cloth_black_hat": "Cloth Black Hat",
+  "item.girlmod_and_extras.cloth_black_top": "Cloth Black T-shirt",
+  "item.girlmod_and_extras.cloth_black_skirt":"Cloth Black Skirt",
+  "item.girlmod_and_extras.cloth_black_shoes":"Cloth Black Shoes",
+
+  "item.girlmod_and_extras.cloth_blue_hat": "Cloth Blue Hat",
+  "item.girlmod_and_extras.cloth_blue_top": "Cloth Blue T-shirt",
+  "item.girlmod_and_extras.cloth_blue_skirt":"Cloth Blue Skirt",
+  "item.girlmod_and_extras.cloth_blue_shoes":"Cloth Blue Shoes",
+
+  "item.girlmod_and_extras.cloth_brown_hat": "Cloth Brown Hat",
+  "item.girlmod_and_extras.cloth_brown_top": "Cloth Brown T-shirt",
+  "item.girlmod_and_extras.cloth_brown_skirt":"Cloth Brown Skirt",
+  "item.girlmod_and_extras.cloth_brown_shoes":"Cloth Brown Shoes",
+
+  "item.girlmod_and_extras.cloth_cyan_hat": "Cloth Cyan Hat",
+  "item.girlmod_and_extras.cloth_cyan_top": "Cloth Cyan T-shirt",
+  "item.girlmod_and_extras.cloth_cyan_skirt":"Cloth Cyan Skirt",
+  "item.girlmod_and_extras.cloth_cyan_shoes":"Cloth Cyan Shoes",
+
+  "item.girlmod_and_extras.cloth_green_hat": "Cloth Green Hat",
+  "item.girlmod_and_extras.cloth_green_top": "Cloth Green T-shirt",
+  "item.girlmod_and_extras.cloth_green_skirt": "Cloth Green Skirt",
+  "item.girlmod_and_extras.cloth_green_shoes": "Cloth Green Shoes",
+
+  "item.girlmod_and_extras.cloth_gray_hat": "Cloth Gray Hat",
+  "item.girlmod_and_extras.cloth_gray_top": "Cloth Gray T-shirt",
+  "item.girlmod_and_extras.cloth_gray_skirt": "Cloth Gray Skirt",
+  "item.girlmod_and_extras.cloth_gray_shoes": "Cloth Gray Shoes",
+
+  "item.girlmod_and_extras.cloth_light_blue_hat": "Cloth Light Blue Hat",
+  "item.girlmod_and_extras.cloth_light_blue_top": "Cloth Light Blue T-shirt",
+  "item.girlmod_and_extras.cloth_light_blue_skirt": "Cloth Blue Skirt",
+  "item.girlmod_and_extras.cloth_light_blue_shoes": "Cloth Light Blue Shoes",
+
+  "item.girlmod_and_extras.cloth_lime_hat": "Cloth Lime Hat",
+  "item.girlmod_and_extras.cloth_lime_top": "Cloth Lime T-shirt",
+  "item.girlmod_and_extras.cloth_lime_skirt": "Cloth Lime Skirt",
+  "item.girlmod_and_extras.cloth_lime_shoes": "Cloth Lime Shoes",
+
+  "item.girlmod_and_extras.cloth_magenta_hat": "Cloth Magenta Hat",
+  "item.girlmod_and_extras.cloth_magenta_top": "Cloth Magenta T-shirt",
+  "item.girlmod_and_extras.cloth_magenta_skirt": "Cloth Magenta Skirt",
+  "item.girlmod_and_extras.cloth_magenta_shoes": "Cloth Magenta Shoes",
+
+  "item.girlmod_and_extras.cloth_orange_hat": "Cloth Orange Hat",
+  "item.girlmod_and_extras.cloth_orange_top": "Cloth Orange T-shirt",
+  "item.girlmod_and_extras.cloth_orange_skirt": "Cloth Orange Skirt",
+  "item.girlmod_and_extras.cloth_orange_shoes": "Cloth Orange Shoes",
+
+  "item.girlmod_and_extras.cloth_pink_hat": "Cloth Pink Hat",
+  "item.girlmod_and_extras.cloth_pink_top": "Cloth Pink T-shirt",
+  "item.girlmod_and_extras.cloth_pink_skirt": "Cloth Pink Skirt",
+  "item.girlmod_and_extras.cloth_pink_shoes": "Cloth Pink Shoes",
+
+  "item.girlmod_and_extras.cloth_purple_hat": "Cloth Purple Hat",
+  "item.girlmod_and_extras.cloth_purple_top": "Cloth Purple T-shirt",
+  "item.girlmod_and_extras.cloth_purple_skirt": "Cloth Purple Skirt",
+  "item.girlmod_and_extras.cloth_purple_shoes": "Cloth Purple Shoes",
+
+  "item.girlmod_and_extras.cloth_red_hat": "Cloth Red Hat",
+  "item.girlmod_and_extras.cloth_red_top": "Cloth Red T-shirt",
+  "item.girlmod_and_extras.cloth_red_skirt": "Cloth Red Skirt",
+  "item.girlmod_and_extras.cloth_red_shoes": "Cloth Red Shoes",
+
+  "item.girlmod_and_extras.cloth_silver_hat": "Cloth Light Gray Hat",
+  "item.girlmod_and_extras.cloth_silver_top": "Cloth Light Gray T-shirt",
+  "item.girlmod_and_extras.cloth_silver_skirt": "Cloth Light Gray Skirt",
+  "item.girlmod_and_extras.cloth_silver_shoes": "Cloth Light Gray Shoes",
+
+  "item.girlmod_and_extras.cloth_white_hat": "Cloth White Hat",
+  "item.girlmod_and_extras.cloth_white_top": "Cloth White T-shirt",
+  "item.girlmod_and_extras.cloth_white_skirt": "Cloth White Skirt",
+  "item.girlmod_and_extras.cloth_white_shoes": "Cloth White Shoes",
+
+  "item.girlmod_and_extras.cloth_yellow_hat": "Cloth Yellow Hat",
+  "item.girlmod_and_extras.cloth_yellow_top": "Cloth Yellow T-shirt",
+  "item.girlmod_and_extras.cloth_yellow_skirt": "Cloth Yellow Skirt",
+  "item.girlmod_and_extras.cloth_yellow_shoes": "Cloth Yellow Shoes",
+
+  "item.girlmod_and_extras.enhanced_cloth_black_hat": "Enhanced Cloth Black Hat",
+  "item.girlmod_and_extras.enhanced_cloth_black_top": "Enhanced Cloth Black T-shirt",
+  "item.girlmod_and_extras.enhanced_cloth_black_skirt":"Enhanced Cloth Black Skirt",
+  "item.girlmod_and_extras.enhanced_cloth_black_shoes":"Enhanced Cloth Black Shoes",
+
+  "item.girlmod_and_extras.enhanced_cloth_blue_hat": "Enhanced Cloth Blue Hat",
+  "item.girlmod_and_extras.enhanced_cloth_blue_top": "Enhanced Cloth Blue T-shirt",
+  "item.girlmod_and_extras.enhanced_cloth_blue_skirt":"Enhanced Cloth Blue Skirt",
+  "item.girlmod_and_extras.enhanced_cloth_blue_shoes":"Enhanced Cloth Blue Shoes",
+
+  "item.girlmod_and_extras.enhanced_cloth_brown_hat": "Enhanced Cloth Brown Hat",
+  "item.girlmod_and_extras.enhanced_cloth_brown_top": "Enhanced Cloth Brown T-shirt",
+  "item.girlmod_and_extras.enhanced_cloth_brown_skirt":"Enhanced Cloth Brown Skirt",
+  "item.girlmod_and_extras.enhanced_cloth_brown_shoes":"Enhanced Cloth Brown Shoes",
+
+  "item.girlmod_and_extras.enhanced_cloth_cyan_hat": "Enhanced Cloth Cyan Hat",
+  "item.girlmod_and_extras.enhanced_cloth_cyan_top": "Enhanced Cloth Cyan T-shirt",
+  "item.girlmod_and_extras.enhanced_cloth_cyan_skirt":"Enhanced Cloth Cyan Skirt",
+  "item.girlmod_and_extras.enhanced_cloth_cyan_shoes":"Enhanced Cloth Cyan Shoes",
+
+  "item.girlmod_and_extras.enhanced_cloth_green_hat": "Enhanced Cloth Green Hat",
+  "item.girlmod_and_extras.enhanced_cloth_green_top": "Enhanced Cloth Green T-shirt",
+  "item.girlmod_and_extras.enhanced_cloth_green_skirt": "Enhanced Cloth Green Skirt",
+  "item.girlmod_and_extras.enhanced_cloth_green_shoes": "Enhanced Cloth Green Shoes",
+
+  "item.girlmod_and_extras.enhanced_cloth_gray_hat": "Enhanced Cloth Gray Hat",
+  "item.girlmod_and_extras.enhanced_cloth_gray_top": "Enhanced Cloth Gray T-shirt",
+  "item.girlmod_and_extras.enhanced_cloth_gray_skirt": "Enhanced Cloth Gray Skirt",
+  "item.girlmod_and_extras.enhanced_cloth_gray_shoes": "Enhanced Cloth Gray Shoes",
+
+  "item.girlmod_and_extras.enhanced_cloth_light_blue_hat": "Enhanced Cloth Light Blue Hat",
+  "item.girlmod_and_extras.enhanced_cloth_light_blue_top": "Enhanced Cloth Light Blue T-shirt",
+  "item.girlmod_and_extras.enhanced_cloth_light_blue_skirt": "Enhanced Cloth Blue Skirt",
+  "item.girlmod_and_extras.enhanced_cloth_light_blue_shoes": "Enhanced Cloth Light Blue Shoes",
+
+  "item.girlmod_and_extras.enhanced_cloth_lime_hat": "Enhanced Cloth Lime Hat",
+  "item.girlmod_and_extras.enhanced_cloth_lime_top": "Enhanced Cloth Lime T-shirt",
+  "item.girlmod_and_extras.enhanced_cloth_lime_skirt": "Enhanced Cloth Lime Skirt",
+  "item.girlmod_and_extras.enhanced_cloth_lime_shoes": "Enhanced Cloth Lime Shoes",
+
+  "item.girlmod_and_extras.enhanced_cloth_magenta_hat": "Enhanced Cloth Magenta Hat",
+  "item.girlmod_and_extras.enhanced_cloth_magenta_top": "Enhanced Cloth Magenta T-shirt",
+  "item.girlmod_and_extras.enhanced_cloth_magenta_skirt": "Enhanced Cloth Magenta Skirt",
+  "item.girlmod_and_extras.enhanced_cloth_magenta_shoes": "Enhanced Cloth Magenta Shoes",
+
+  "item.girlmod_and_extras.enhanced_cloth_orange_hat": "Enhanced Cloth Orange Hat",
+  "item.girlmod_and_extras.enhanced_cloth_orange_top": "Enhanced Cloth Orange T-shirt",
+  "item.girlmod_and_extras.enhanced_cloth_orange_skirt": "Enhanced Cloth Orange Skirt",
+  "item.girlmod_and_extras.enhanced_cloth_orange_shoes": "Enhanced Cloth Orange Shoes",
+
+  "item.girlmod_and_extras.enhanced_cloth_pink_hat": "Enhanced Cloth Pink Hat",
+  "item.girlmod_and_extras.enhanced_cloth_pink_top": "Enhanced Cloth Pink T-shirt",
+  "item.girlmod_and_extras.enhanced_cloth_pink_skirt": "Enhanced Cloth Pink Skirt",
+  "item.girlmod_and_extras.enhanced_cloth_pink_shoes": "Enhanced Cloth Pink Shoes",
+
+  "item.girlmod_and_extras.enhanced_cloth_purple_hat": "Enhanced Cloth Purple Hat",
+  "item.girlmod_and_extras.enhanced_cloth_purple_top": "Enhanced Cloth Purple T-shirt",
+  "item.girlmod_and_extras.enhanced_cloth_purple_skirt": "Enhanced Cloth Purple Skirt",
+  "item.girlmod_and_extras.enhanced_cloth_purple_shoes": "Enhanced Cloth Purple Shoes",
+
+  "item.girlmod_and_extras.enhanced_cloth_red_hat": "Enhanced Cloth Red Hat",
+  "item.girlmod_and_extras.enhanced_cloth_red_top": "Enhanced Cloth Red T-shirt",
+  "item.girlmod_and_extras.enhanced_cloth_red_skirt": "Enhanced Cloth Red Skirt",
+  "item.girlmod_and_extras.enhanced_cloth_red_shoes": "Enhanced Cloth Red Shoes",
+
+  "item.girlmod_and_extras.enhanced_cloth_silver_hat": "Enhanced Cloth Light Gray Hat",
+  "item.girlmod_and_extras.enhanced_cloth_silver_top": "Enhanced Cloth Light Gray T-shirt",
+  "item.girlmod_and_extras.enhanced_cloth_silver_skirt": "Enhanced Cloth Light Gray Skirt",
+  "item.girlmod_and_extras.enhanced_cloth_silver_shoes": "Enhanced Cloth Light Gray Shoes",
+
+  "item.girlmod_and_extras.enhanced_cloth_white_hat": "Enhanced Cloth White Hat",
+  "item.girlmod_and_extras.enhanced_cloth_white_top": "Enhanced Cloth White T-shirt",
+  "item.girlmod_and_extras.enhanced_cloth_white_skirt": "Enhanced Cloth White Skirt",
+  "item.girlmod_and_extras.enhanced_cloth_white_shoes": "Enhanced Cloth White Shoes",
+
+  "item.girlmod_and_extras.enhanced_cloth_yellow_hat": "Enhanced Cloth Yellow Hat",
+  "item.girlmod_and_extras.enhanced_cloth_yellow_top": "Enhanced Cloth Yellow T-shirt",
+  "item.girlmod_and_extras.enhanced_cloth_yellow_skirt": "Enhanced Cloth Yellow Skirt",
+  "item.girlmod_and_extras.enhanced_cloth_yellow_shoes": "Enhanced Cloth Yellow Shoes",
+
+  "item.girlmod_and_extras.black_hat": "Final Hat A",
+  "item.girlmod_and_extras.black_top": "Final T-shirt A",
+  "item.girlmod_and_extras.black_skirt":"Final Skirt A",
+  "item.girlmod_and_extras.black_shoes":"Final Shoes A",
+
+  "item.girlmod_and_extras.blue_hat": "Final Hat B",
+  "item.girlmod_and_extras.blue_top": "Final T-shirt B",
+  "item.girlmod_and_extras.blue_skirt":"Final Skirt B",
+  "item.girlmod_and_extras.blue_shoes":"Final Shoes B",
+
+  "item.girlmod_and_extras.brown_hat": "Final Hat C",
+  "item.girlmod_and_extras.brown_top": "Final T-shirt C",
+  "item.girlmod_and_extras.brown_skirt":"Final Skirt C",
+  "item.girlmod_and_extras.brown_shoes":"Final Shoes C",
+
+  "item.girlmod_and_extras.cyan_hat": "Final Hat D",
+  "item.girlmod_and_extras.cyan_top": "Final T-shirt D",
+  "item.girlmod_and_extras.cyan_skirt":"Final Skirt D",
+  "item.girlmod_and_extras.cyan_shoes":"Final Shoes D",
+
+  "item.girlmod_and_extras.green_hat": "Final Hat E",
+  "item.girlmod_and_extras.green_top": "Final T-shirt E",
+  "item.girlmod_and_extras.green_skirt": "Final Skirt E",
+  "item.girlmod_and_extras.green_shoes": "Final Shoes E",
+
+  "item.girlmod_and_extras.gray_hat": "Final Hat F",
+  "item.girlmod_and_extras.gray_top": "Final T-shirt F",
+  "item.girlmod_and_extras.gray_skirt": "Final Skirt F",
+  "item.girlmod_and_extras.gray_shoes": "Final Shoes F",
+
+  "item.girlmod_and_extras.light_blue_hat": "Final Hat G",
+  "item.girlmod_and_extras.light_blue_top": "Final T-shirt G",
+  "item.girlmod_and_extras.light_blue_skirt": "Final Skirt G",
+  "item.girlmod_and_extras.light_blue_shoes": "Final Shoes G",
+
+  "item.girlmod_and_extras.lime_hat": "Final Hat H",
+  "item.girlmod_and_extras.lime_top": "Final T-shirt H",
+  "item.girlmod_and_extras.lime_skirt": "Final Skirt H",
+  "item.girlmod_and_extras.lime_shoes": "Final Shoes H",
+
+  "item.girlmod_and_extras.magenta_hat": "Final Hat I",
+  "item.girlmod_and_extras.magenta_top": "Final T-shirt I",
+  "item.girlmod_and_extras.magenta_skirt": "Final Skirt I",
+  "item.girlmod_and_extras.magenta_shoes": "Final Shoes I",
+
+  "item.girlmod_and_extras.orange_hat": "Final Hat J",
+  "item.girlmod_and_extras.orange_top": "Final T-shirt J",
+  "item.girlmod_and_extras.orange_skirt": "Final Skirt J",
+  "item.girlmod_and_extras.orange_shoes": "Final Shoes J",
+
+  "item.girlmod_and_extras.pink_hat": "Final Hat K",
+  "item.girlmod_and_extras.pink_top": "Final T-shirt K",
+  "item.girlmod_and_extras.pink_skirt": "Final Skirt K",
+  "item.girlmod_and_extras.pink_shoes": "Final Shoes K",
+
+  "item.girlmod_and_extras.purple_hat": "Final Hat L",
+  "item.girlmod_and_extras.purple_top": "Final T-shirt L",
+  "item.girlmod_and_extras.purple_skirt": "Final Skirt L",
+  "item.girlmod_and_extras.purple_shoes": "Final Shoes L",
+
+  "item.girlmod_and_extras.red_hat": "Final Hat M",
+  "item.girlmod_and_extras.red_top": "Final T-shirt M",
+  "item.girlmod_and_extras.red_skirt": "Final Skirt M",
+  "item.girlmod_and_extras.red_shoes": "Final Shoes M",
+
+  "item.girlmod_and_extras.silver_hat": "Final Hat N",
+  "item.girlmod_and_extras.silver_top": "Final T-shirt N",
+  "item.girlmod_and_extras.silver_skirt": "Final Skirt N",
+  "item.girlmod_and_extras.silver_shoes": "Final Shoes N",
+
+  "item.girlmod_and_extras.white_hat": "Final Hat O",
+  "item.girlmod_and_extras.white_top": "Final T-shirt O",
+  "item.girlmod_and_extras.white_skirt": "Final Skirt O",
+  "item.girlmod_and_extras.white_shoes": "Final Shoes O",
+
+  "item.girlmod_and_extras.yellow_hat": "Final Hat P",
+  "item.girlmod_and_extras.yellow_top": "Final T-shirt P",
+  "item.girlmod_and_extras.yellow_skirt": "Final Skirt P",
+  "item.girlmod_and_extras.yellow_shoes": "Final Shoes P"
+
+
 }
